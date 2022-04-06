@@ -1,0 +1,2 @@
+# rusthash
+Checksums in rust.
